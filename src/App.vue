@@ -70,7 +70,7 @@ const clear = () => {
           <td>{{ maxTemp }}</td>
         </tr>
         <tr>
-          <td>Максимальная температура:</td>
+          <td>Минимальная температура:</td>
           <td>{{ minTemp }}</td>
         </tr>
         <tr>
